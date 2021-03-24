@@ -36,6 +36,6 @@ namespace Business.Constants
 
         public static string CarNameInvalid = "Geçersiz araba ismi";
         public static string DailyPriceInvalid = "Geçersiz fiyat";
-
+        public static string CarImageLimitExceeded  =" swxs";
     }
 }
